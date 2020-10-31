@@ -1,0 +1,19 @@
+{
+  "name": "vue-dom-interaction",
+  "version": "1.0.0",
+  "description": "Basics & Core Concepts - DOM Interaction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satyaki-Roy/vue-dom-interaction.git"
+  },
+  "author": "Satyaki Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satyaki-Roy/vue-dom-interaction/issues"
+  },
+  "homepage": "https://github.com/Satyaki-Roy/vue-dom-interaction#readme"
+}
