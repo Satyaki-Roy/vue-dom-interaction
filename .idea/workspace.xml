@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="798e4228-6229-4415-bced-4352d696a578" name="Default Changelist" comment="" />
+    <list default="true" id="798e4228-6229-4415-bced-4352d696a578" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -14,12 +21,14 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1jcnzNaWodLNm9JU2iowoK3wLlX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -43,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604112508843</updated>
-      <workItem from="1604112509882" duration="4555000" />
+      <workItem from="1604112509882" duration="5899000" />
+      <workItem from="1604135980686" duration="1645000" />
     </task>
     <servers />
   </component>
@@ -51,9 +61,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="478" y="1268" width="1022" height="737" key="SettingsEditor" timestamp="1604126111263">
-      <screen x="0" y="1080" width="1920" height="1080" />
+    <state x="522" y="210" width="992" height="737" key="SettingsEditor" timestamp="1604136835030">
+      <screen x="58" y="27" width="1862" height="1053" />
     </state>
     <state x="478" y="1268" width="1022" height="737" key="SettingsEditor/0.1080.1920.1080/58.0.1862.1080@0.1080.1920.1080" timestamp="1604126111263" />
+    <state x="522" y="210" width="992" height="737" key="SettingsEditor/0.1080.1920.1080/58.27.1862.1053@58.27.1862.1053" timestamp="1604136835030" />
+    <state x="713" y="1480" width="542" height="314" key="cloudConfig.PluginsDialog" timestamp="1604135955426">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="713" y="1480" width="542" height="314" key="cloudConfig.PluginsDialog/0.1080.1920.1080/58.0.1862.1080@0.1080.1920.1080" timestamp="1604135955426" />
+    <state x="862" y="1480" width="254" height="314" key="cloudConfig.SelfSettingsDialog" timestamp="1604135924848">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="862" y="1480" width="254" height="314" key="cloudConfig.SelfSettingsDialog/0.1080.1920.1080/58.0.1862.1080@0.1080.1920.1080" timestamp="1604135924848" />
   </component>
 </project>
