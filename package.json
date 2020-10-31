@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Satyaki-Roy/vue-dom-interaction/issues"
   },
-  "homepage": "https://github.com/Satyaki-Roy/vue-dom-interaction#readme"
+  "homepage": "https://github.com/Satyaki-Roy/vue-dom-interaction#readme",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
 }
