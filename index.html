@@ -23,8 +23,9 @@
       <p v-once>Starting Counter: {{ counter }}</p>
       <p>Current Counter: {{ counter }}</p>
 
-      <input type="text" v-on:input="addName($event,'Roy')" v-on:keyup.enter="finalNameEvent">
-      <p>Your name: {{ finalName }}</p>
+      <input type="text" v-model="name">
+      <button v-on:click="resetInput">Reset Input</button>
+      <p>Your name: {{ name }}</p>
 
       <form v-on:submit.prevent="submitForm">
         <input type="text">
