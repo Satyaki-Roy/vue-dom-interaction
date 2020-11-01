@@ -4,10 +4,15 @@ const app = Vue.createApp({
       counter: 0,
       name: "",
       lastName: "",
-      fullName: "",
     };
   },
   watch: {
+    counter(newValue, oldValue) {
+      if (newValue > 50) {
+        this.counter = 0;
+      }
+    },
+    /*
     name(newValue, oldValue) {
       if (this.name === "") {
         this.fullName = "";
@@ -22,14 +27,12 @@ const app = Vue.createApp({
         this.fullName = `${this.name} ${newValue}`;
       }
     },
+    */
   },
   computed: {
-    // fullName() {
-    //   if (this.name === "") {
-    //     return "";
-    //   }
-    //   return `${this.name} Roy`;
-    // },
+    fullName() {
+      return `${this.name} ${this.lastName}`;
+    },
   },
   methods: {
     add(num) {
